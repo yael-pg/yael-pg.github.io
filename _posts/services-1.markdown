@@ -1,0 +1,8 @@
+---
+layout: default
+img: us.png
+category: Services
+title: Who am I
+description: |
+---
+  A food technologist specialized in alternative protein research and technology. Experienced with ingredient scouting,  formulation planning, and application development.

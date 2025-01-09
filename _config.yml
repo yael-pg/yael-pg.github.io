@@ -1,0 +1,30 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://yael-pg.github.io
+title: Yael Prigat Goldfriend
+email: yyp1991@gmail.com
+author: Yael Prigat
+description: > # "A description for site. 
+  Yael Prigat Goldfriend is a food technologist and a proud mother.
+copyright: 'Copyright &copy; 2025 Yael Prigat Goldfriend. All Rights Reserved.'
+credits: 'Credits: Open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: instagram
+    url: https://www.instagram.com/yael.foodtech?igsh=dzVheDF5NWtwbTlh
+  - title: linkedin
+    url: https://www.linkedin.com/in/yael-prigat-goldfriend-b0196a152/
