@@ -2,4 +2,6 @@
 img:
 title: What I do
 ---
-I help food companies develop alternative protein products — from ingredient scouting and formulation planning through to application development and scale-up support.
+I am best at turning ambiguous scientific concepts into milestones, timelines, decisions, and product applications. The latter means in practice leading
+multidisciplinary R&D workstreams, coordinating academic and external collaborations, mentoring technical teams,
+and more.
