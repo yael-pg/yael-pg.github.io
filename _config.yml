@@ -8,7 +8,7 @@ email: yyp1991@gmail.com
 author: Yael Prigat
 description: > # "A description for site. 
   Yael Prigat Goldfriend is a food technologist and a proud mother.
-copyright: 'Copyright &copy; 2025 Yael Prigat Goldfriend. All Rights Reserved.'
+copyright_start_year: 2025
 credits: 'Credits: Open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
 # ----------------------- #

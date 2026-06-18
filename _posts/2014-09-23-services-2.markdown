@@ -1,0 +1,5 @@
+---
+img:
+title: What I do
+---
+I help food companies develop alternative protein products — from ingredient scouting and formulation planning through to application development and scale-up support.
