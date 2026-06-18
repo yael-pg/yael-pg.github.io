@@ -1,6 +1,7 @@
 <section id="services">
 <!-- Page Content -->
-{% for post in site.posts %}
+{% assign sections = site.posts | sort: 'date' %}
+{% for post in sections %}
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
     <div id="{{ post.title | slugify }}" class="content-section-a">
