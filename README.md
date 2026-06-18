@@ -1,35 +1,30 @@
-# Landing Page Jekyll theme
+# Yael Prigat Goldfriend — Personal Site
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+Jekyll site based on the [Start Bootstrap Landing Page](https://startbootstrap.com/template/landing-page/) theme, published to GitHub Pages.
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+## Local preview
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
+Requires Ruby 3.0+ (install via [rbenv](https://github.com/rbenv/rbenv) or [Homebrew](https://brew.sh/)).
+
+```bash
+bundle install
+bundle exec jekyll serve
 ```
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+Open [http://localhost:4000](http://localhost:4000) to preview changes before pushing.
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+Optional auto-refresh while editing:
 
-===
+```bash
+bundle exec jekyll serve --livereload
+```
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+## Content
 
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+- **Home / hero:** [`index.html`](index.html)
+- **Sections** (Who am I, What I do, My vision): [`_posts/`](_posts/)
+- **CV:** [`Yael_Prigat_Goldfriend_cv.pdf`](Yael_Prigat_Goldfriend_cv.pdf)
 
-## Version
-1.0.1
+## Publish
+
+Push to `main` on `yael-pg/yael-pg.github.io` — GitHub Pages rebuilds automatically.

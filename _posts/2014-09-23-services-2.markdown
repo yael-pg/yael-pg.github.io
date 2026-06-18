@@ -1,0 +1,7 @@
+---
+img:
+title: What I do
+---
+I am best at turning ambiguous scientific concepts into milestones, timelines, decisions, and product applications. The latter means in practice leading
+multidisciplinary R&D workstreams, coordinating academic and external collaborations, mentoring technical teams,
+and more.
